@@ -1,8 +1,6 @@
 # Hey, I am Pranith! Great to see you here! <img src="/src/wave.gif" width="30px">
 
-<img src="/src/header_.png">
-
-<br/>
+<img src="/src/Cover2.png">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -16,7 +14,7 @@
 
 <br/>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="/src/Night-Coding.gif" align="right"/>
 
 ### 🖥️ &nbsp;My Skill Set 
 
