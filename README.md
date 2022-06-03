@@ -1,4 +1,4 @@
-# Hey, I am Pranith! Great to see you here! <img src="/src/wave.gif" width="30px">
+# Hey, I am Pranith! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
 <img src="/src/Cover2.png">
 
