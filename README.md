@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing my Bachelor's in Computer Science.\
+🎓 &nbsp;I'm currently working as a software engineer at Persistent Systems.\
 🌱 &nbsp;I'm on track for learning about MERN.\
 ✍️ &nbsp;In my free time, I'll be playing some CS or watching some series.\
 💬 &nbsp;Feel free to reach out to me for any suggestions and mentoring, or just for some interesting discussions.\
