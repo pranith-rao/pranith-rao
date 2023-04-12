@@ -51,22 +51,22 @@
 
 ## 🤝🏻 Connect with Me 
 <div align="center">
-<a href="https://github.com/pranith-rao" target="_blank">
+<a href="https://github.com/pranith-rao" target="_blank" rel="noopener">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/rao_pranith" target="_blank">
+<a href="https://twitter.com/rao_pranith" target="_blank" rel="noopener">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/pranith-rao-036a821a5/" target="_blank">
+<a href="https://www.linkedin.com/in/pranith-rao-036a821a5/" target="_blank" rel="noopener">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCAMfqItwsVqhrv-Gv5a_kmA/videos" target="_blank">
+<a href="https://www.youtube.com/channel/UCAMfqItwsVqhrv-Gv5a_kmA/videos" target="_blank" rel="noopener">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:pranithrao3@gmail.com" target="_blank">
+<a href="mailto:pranithrao3@gmail.com" target="_blank" rel="noopener">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a> 
-<a href="https://instagram.com/pranith._.rao" target="_blank">
+<a href="https://instagram.com/pranith._.rao" target="_blank" rel="noopener">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white alt=insta style="margin-bottom: 5px;"/>
 </a>
 </div>  
