@@ -66,7 +66,7 @@
 <a href="mailto:pranithrao3@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a> 
-<a href="https://instagram.com/pranith.rao">
+<a href="https://instagram.com/pranith._.rao" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white alt=insta style="margin-bottom: 5px;"/>
 </a>
 </div>  
