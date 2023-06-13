@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 [![Pranith Rao's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranith-rao&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
