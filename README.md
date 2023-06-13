@@ -33,7 +33,7 @@
 
 <br/><br/><br/><br/>
 
-[![Pranith Rao's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pranith-rao&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pranith Rao's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranith-rao&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
