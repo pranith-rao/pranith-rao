@@ -7,8 +7,8 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently working as a Software Engineer at Persistent Systems.\
 🌱 &nbsp;I'm on track for learning about MERN.\
-✍️ &nbsp;In my free time, I'll be playing some COC or watching some series.\
-💬 &nbsp;Feel free to reach out to me for any suggestions and mentoring, or just for some interesting discussions.\
+✍️ &nbsp;In my free time, I'll be playing cricket or watching some series.\
+💬 &nbsp;Feel free to reach out to me if you have any queries or suggesstions, or just for some interesting discussions.\
 ✉️ &nbsp;You can shoot me an email at pranithrao3@gmail.com! I'll try to respond as soon as I can.
 
 <br/>
